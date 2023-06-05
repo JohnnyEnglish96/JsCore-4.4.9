@@ -1,1 +1,2 @@
 # Registration
+(/img/reg.png)
