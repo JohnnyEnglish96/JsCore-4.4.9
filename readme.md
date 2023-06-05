@@ -1,2 +1,2 @@
 # Registration
-!(/img/reg.png)
+![registration](/img/reg.png)
